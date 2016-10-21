@@ -4,3 +4,13 @@
 ###Red Card Black 
 
 
+##Why?
+Who knows!  It's important!
+
+##Who?
+Austin Jipping and Jon Redeker
+
+##What?
+A mobile-first web game (single page app) to play the best game ever
+
+Maybe someday we'll have leaderboards and the whole shabang
